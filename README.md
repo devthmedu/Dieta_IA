@@ -1,4 +1,5 @@
 # Dieta.IA
+![media](https://github.com/user-attachments/assets/784558dc-d761-4f9f-9b0a-e3ac8403da61)
 
 ## O Projeto
 
